@@ -532,6 +532,8 @@ class StoreFrame(ttk.Frame):
             self.rooms_output.set("")
             self.refresh_games()
             self.render_dev_games()
+            self._update_detail_buttons()
+            self._update_radio_locking()
 
         self.app.run_async(work, done)
 
