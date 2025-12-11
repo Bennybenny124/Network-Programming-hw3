@@ -27,7 +27,7 @@ if str(CURRENT_DIR) not in sys.path:
 
 import db_server
 
-HOST = "0.0.0.0"
+HOST = "linux2.cs.nycu.edu.tw"
 PORT = 12345
 LOBBY_BASE_PORT = 11000
 ROOM_BASE_PORT = 12000
