@@ -1,0 +1,5 @@
+{
+  "description": "Tank: simple multiplayer top-down tank battle. Move, rotate turret, fire one bullet at a time. Last tank alive wins.",
+  "entry_client": "run_client.py",
+  "entry_room_server": "run_room_server.py"
+}

@@ -1,0 +1,5 @@
+{
+  "description": "Minimal dummy pygame game for handshake testing.",
+  "entry_client": "run_client.py",
+  "entry_room_server": "run_room_server.py"
+}

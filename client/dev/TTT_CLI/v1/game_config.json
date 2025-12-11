@@ -1,0 +1,6 @@
+{
+  "description": "TicTacToe CLI: two-player text-based tic-tac-toe with rematch support.",
+  "entry_client": "run_client.py",
+  "entry_room_server": "run_room_server.py",
+  "version": "1"
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "username": "A",
+    "password": "A",
+    "games": [],
+    "games_own": []
+  },
+  {
+    "username": "B",
+    "password": "B",
+    "games": [],
+    "games_own": []
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "description": "TicTacToe: two-player pygame tic-tac-toe with rematch option.",
+  "entry_client": "run_client.py",
+  "entry_room_server": "run_room_server.py",
+  "version": "1"
+}
